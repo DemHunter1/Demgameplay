@@ -51,6 +51,9 @@
 ### I have this or that issue with reshade
 * Refer to this [GitHub made by ipsu](https://github.com/ipsusu/ipsuShade?tab=readme-ov-file#troubleshooting-and-common-issues-updated-for-dawntrail-graphics-update) for any issues not directly related to my presets or join marty's discord for RTGI specific problems.
 
+### Do you have screenshot or gpose presets?
+* No and i probably never will, i only wanted a simple preset for general gameplay
+
 ## Donate
 [Support my work](https://ko-fi.com/dem869193)
 
