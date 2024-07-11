@@ -25,15 +25,15 @@
 <h3>If you did everything right your reshade list should look like this :</h3>
 <details>
 <summary>Demgameplay_high</summary>
-<br><img src="https://i.imgur.com/VFMmixm.png"><br>
+<br><img src="https://i.imgur.com/IO6QZIe.png"><br>
 </details>
 <details>
 <summary>Demgameplay_low / Demgameplay_medium</summary>
-<br><img src="https://i.imgur.com/8ZzBAif.png"><br>
+<br><img src="https://i.imgur.com/q6BA79v.png"><br>
 </details>
 <details>
 <summary>Demgameplay_NoRTGI</summary>
-<br><img src="https://i.imgur.com/RbN8vnN.png"><br>
+<br><img src="https://i.imgur.com/nxFsK3l.png"><br>
 </details>
 
 
