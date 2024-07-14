@@ -13,7 +13,7 @@
 
 ## Instructions
 - Make sure to have [Reshade 6.1.1+ with addon](https://reshade.me/downloads/ReShade_Setup_6.1.1_Addon.exe) installed already
-- [Download the Zip](https://github.com/DemHunter1/Demgameplay/archive/refs/tags/1.0.2.zip)
+- [Download the Zip](https://github.com/DemHunter1/Demgameplay/archive/refs/tags/1.1.1.zip)
 - Place the 2 files from the REST folder into your game folder : ***SquareEnix\FINAL FANTASY XIV - A Realm Reborn\game***
 - [Get IMMERSE PRO 2043](https://www.martysmods.com/rtgi/) and place the files inside the shaders folder
 - Open the Shaders folder you downloaded, copy the files and paste it into : ***SquareEnix\FINAL FANTASY XIV - A Realm Reborn\game\reshade-shaders\Shaders***
