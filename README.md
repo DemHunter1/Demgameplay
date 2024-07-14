@@ -15,32 +15,17 @@
 - Make sure to have [Reshade 6.1.1+ with addon](https://reshade.me/downloads/ReShade_Setup_6.1.1_Addon.exe) installed already
 - [Download the Zip](https://github.com/DemHunter1/Demgameplay/archive/refs/tags/1.0.2.zip)
 - Place the 2 files from the REST folder into your game folder : ***SquareEnix\FINAL FANTASY XIV - A Realm Reborn\game***
-- (optional) [Get IMMERSE PRO 2043](https://www.martysmods.com/rtgi/) and place the files inside the shaders folder
+- [Get IMMERSE PRO 2043](https://www.martysmods.com/rtgi/) and place the files inside the shaders folder
 - Open the Shaders folder you downloaded, copy the files and paste it into : ***SquareEnix\FINAL FANTASY XIV - A Realm Reborn\game\reshade-shaders\Shaders***
 - Open the Textures folder you downloaded, copy the files and paste it into : ***SquareEnix\FINAL FANTASY XIV - A Realm Reborn\game\reshade-shaders\Textures***
 - Select your preset.
 - Reload reshade or the game and enjoy.
 
 
-<h3>If you did everything right your reshade list should look like this :</h3>
-<details>
-<summary>Demgameplay_high</summary>
-<br><img src="https://i.imgur.com/IO6QZIe.png"><br>
-</details>
-<details>
-<summary>Demgameplay_low / Demgameplay_medium</summary>
-<br><img src="https://i.imgur.com/q6BA79v.png"><br>
-</details>
-<details>
-<summary>Demgameplay_NoRTGI</summary>
-<br><img src="https://i.imgur.com/nxFsK3l.png"><br>
-</details>
-
-
 ## FAQ
 
 ### I don't want motion blur.
-* Turn off Vort_motion and save the preset.
+* Turn off Reblur and save the preset.
 
 ### I'm getting weird white flicker when in darker areas, how can i fix it ?
 * You can't, wait for an update to RTGI or turn up the specular lighting quality.
