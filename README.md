@@ -21,6 +21,10 @@
 - Select your preset.
 - Reload reshade or the game and enjoy.
 
+Presets now includes :
+- Demgameplay_Basic (Basic preset exluding color grading and other visual changing shaders)
+- Demgameplay_High (For high end pc users for maximum quality)
+
 
 ## FAQ
 
