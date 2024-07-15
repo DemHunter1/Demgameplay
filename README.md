@@ -1,5 +1,5 @@
 <h1 align="center"> Demgameplay </h1>
-<p align="center">This is a simple preset for Final Fantasy XIV. Both Free and paid shaders preset options.</p>
+<p align="center">This is a simple preset for Final Fantasy XIV.</p>
 <p align="center"><img width="80%" src="https://i.imgur.com/EkWfujN.jpeg"></p>
 
 
