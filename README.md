@@ -4,7 +4,7 @@
 
 
 ## Table of Contents
-- [How to install Reshade 6.1.1+ with addon](https://github.com/ipsusu/ipsuShade/blob/master/README.md#reshade-install-guide-for-ffxiv) Made by Ipsu
+- [How to install Reshade 6.1.1+ with addon](https://github.com/ipsusu/ipsuShade/blob/master/README.md#reshade-install-guide-for-ffxiv) Made by Ipsu. Skip if you have the latest reshade installed.
 - [How to install Demgameplay](#instructions)
 - [FAQ](#faq)
 - [Donate](#donate)
@@ -13,16 +13,16 @@
 
 ## Instructions
 - Make sure to have [Reshade 6.1.1+ with addon](https://reshade.me/downloads/ReShade_Setup_6.1.1_Addon.exe) installed already
-- [Download the Zip](https://github.com/DemHunter1/Demgameplay/archive/refs/tags/1.1.3.zip)
+- [Download the Zip](https://github.com/DemHunter1/Demgameplay/archive/refs/tags/1.2.0.zip)
 - Place the 2 files from the REST folder into your game folder : ***SquareEnix\FINAL FANTASY XIV - A Realm Reborn\game***
-- [Get IMMERSE PRO 2043](https://www.martysmods.com/rtgi/) and place the files inside the shaders folder
+- [Get IMMERSE PRO 2407](https://www.martysmods.com/rtgi/) and place the files inside the shaders folder
 - Open the Shaders folder you downloaded, copy the files and paste it into : ***SquareEnix\FINAL FANTASY XIV - A Realm Reborn\game\reshade-shaders\Shaders***
 - Open the Textures folder you downloaded, copy the files and paste it into : ***SquareEnix\FINAL FANTASY XIV - A Realm Reborn\game\reshade-shaders\Textures***
 - Select your preset.
 - Reload reshade or the game and enjoy.
 
 Presets now includes :
-- Demgameplay_Basic (Basic preset exluding color grading and other visual changing shaders)
+- Demgameplay_Basic (Basic preset excluding color grading and other visual changing shaders)
 - Demgameplay_High (For high end pc users for maximum quality)
 
 
@@ -30,9 +30,6 @@ Presets now includes :
 
 ### I don't want motion blur.
 * Turn off Reblur and save the preset.
-
-### I'm getting weird white flicker when in darker areas, how can i fix it ?
-* You can't, wait for an update to RTGI or turn up the specular lighting quality.
 
 ### I don't have one of the shaders you're using?
 * Every free shader i used is in the zip you download. if it's not in there it's a 5$ [paid shader by Marty](https://www.martysmods.com/)
